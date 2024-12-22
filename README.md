@@ -1,18 +1,25 @@
 # This is a reflection on what has been learned after creating two personal websites as career portfolios on W3 Spaces and Notion.
 
-Key Components:
+*some text formatting done in HTML below
 
-1. Maintenance
 
-  a. API chart formatting
-  b. Readability
+<b><i>Key Components</b></i>:
 
-3. Embedding
+
+1. <b>Maintenance</b>
+
+    a. API chart formatting
+  
+    b. Readability
+
+2. <b>Embedding</b>
 
    a. Code blocks
+
    b. PDF documents
 
-5. Future Content
+4. <b>Future Content</b>
 
    a. Writing
+
    b. Community Engagement
