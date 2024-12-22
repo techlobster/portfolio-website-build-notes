@@ -4,6 +4,15 @@ Key Components:
 
 1. Maintenance
 
-2. Embedding
+  a. API chart formatting
+  b. Readability
 
-3. Future Content
+3. Embedding
+
+   a. Code blocks
+   b. PDF documents
+
+5. Future Content
+
+   a. Writing
+   b. Community Engagement
