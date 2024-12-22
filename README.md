@@ -1,6 +1,6 @@
-# This is a reflection on what has been learned after creating two personal websites as career portfolios on W3 Spaces and Notion.
+<b><i>This is a reflection on what has been learned after creating two personal websites as career portfolios on W3 Spaces and Notion.</b></i>
 
-*some text formatting done in HTML below
+*some text formatting is done in HTML
 
 
 <b><i>Key Components</b></i>:
