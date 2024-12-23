@@ -1,0 +1,16 @@
+# The first code that I believe that I ever tried writing was HTML formatting text into <b>bold</b> , <i>italics</i>, and adding hyperlinks below in this <a href=> style of code.
+
+# You will need more syntax than what is listed here as this is only a snippet.
+
+<ol>
+  <li>Site built on W3 Spaces with CSS, HTML, and JavaScript: <a href="https://portfoliobm.w3spaces.com/">BenW3SchoolsPortfolio</a></li>
+  <li>Site built on Notion with embedded Python and SQL: <a href="https://sandy-lake-931.notion.site/Ocean-to-Tech-Portfolio-c8c74ec0106745bab6a962aeb893f511">BenNotionPorfolio</a></li>
+</ol>
+
+# <ol> = ordered list and <li> = list, or in this situation, the list name within this overall ordered list
+
+# Each of these websites referenced are personal career portfolios. I included this software code file reminding myself of not forgetting the place that this all started as a sign of gratitude.
+
+# The second of the two sites above has a longer URL possibly because of being created with a free version of Notion that did not have a custom URL option.
+
+# Please review your code with professionals before deploying. This is simply practice that in-line/formatting still needs evaluation.
