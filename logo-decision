@@ -1,1 +1,17 @@
-# Placeholder for creating logo via Python or JavaScript. Alternatively can design elsewhere and upload file.
+# Placeholder for creating logo via Python or HTML & JavaScript. Alternatively can design elsewhere and upload file.
+
+# Work on Python:
+
+from turtle import
+
+# Work on HTML and JavaScript:
+
+# HTML first for the canvas area
+<canvas id = "" width = "" height = "" style = "">
+</canvas>
+
+# JavaScript next to draw logo on canvas
+<script>
+</script>
+
+# This file and code is not yet finished.
